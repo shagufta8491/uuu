@@ -1,0 +1,10 @@
+2023-Dec-15 18:06:53 PM [main] INFO  com.qa.automation.stepdef.StepDefs - clicked on the signup button
+2023-Dec-15 18:06:54 PM [main] INFO  com.qa.automation.stepdef.StepDefs - entered correct registered emilid as ciwika1748@frandin.com
+2023-Dec-15 18:06:54 PM [main] INFO  com.qa.automation.stepdef.StepDefs - entered correct registered emilid as 123456.Abc
+2023-Dec-15 18:07:00 PM [main] INFO  com.qa.automation.stepdef.StepDefs - user click on login button
+2023-Dec-15 18:07:01 PM [main] INFO  com.qa.automation.stepdef.StepDefs - Browser got closed
+2023-Dec-15 18:07:14 PM [main] INFO  com.qa.automation.stepdef.StepDefs - clicked on the signup button
+2023-Dec-15 18:07:15 PM [main] INFO  com.qa.automation.stepdef.StepDefs - entered correct registered emilid as ciwika1744@frandin.com
+2023-Dec-15 18:07:15 PM [main] INFO  com.qa.automation.stepdef.StepDefs - entered correct registered emilid as 123456.Abc
+2023-Dec-15 18:07:18 PM [main] INFO  com.qa.automation.stepdef.StepDefs - user click on login button
+2023-Dec-15 18:07:18 PM [main] INFO  com.qa.automation.stepdef.StepDefs - Browser got closed

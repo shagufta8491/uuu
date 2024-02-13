@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Firstproject
+Bundle-SymbolicName: Firstproject
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Firstproject.jar,
+ Java/jre1.8.0_191/lib/plugin.jar
+Automatic-Module-Name: Firstproject
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: com.qa.automation.factory,
+ com.qa.automation.pageobjects,
+ com.qa.automation.projectfiles,
+ com.qa.automation.reusableUtilities,
+ com.qa.automation.runners,
+ com.qa.automation.stepdef
